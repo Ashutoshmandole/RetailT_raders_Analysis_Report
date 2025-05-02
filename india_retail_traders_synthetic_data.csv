@@ -1,0 +1,501 @@
+trader_id,age_group,experience_level,starting_capital,ending_balance,monthly_return_pct,max_drawdown_pct,position_size_pct,win_ratio,risk_reward_ratio,trades_per_week,avg_holding_period_days,overnight_positions_pct,platform_usage_hours,preferred_trading_type,preferred_instruments,trade_decision_factor,stop_loss_usage_pct,is_profitable,risk_score
+TR00001,36-45,Intermediate,212049,211384,-0.33,1.99,5.11,0.47,0.84,11,4.89,28.07,4.32,Intraday,F&O,Technical Analysis,66.68,0,1
+TR00002,18-25,Beginner,59115,39272,-34.28,33.39,49.0,0.2,1.18,29,0.86,55.88,5.85,Intraday,Commodities,Technical Analysis,33.29,0,5
+TR00003,26-35,Beginner,98223,82133,-15.79,23.46,29.63,0.26,1.04,24,25.07,43.44,7.34,Swing,Currency,Technical Analysis,13.92,0,4
+TR00004,26-35,Intermediate,241962,253262,4.39,8.96,19.46,0.48,1.98,15,8.1,38.85,3.52,Mixed,Currency,Technical Analysis,52.62,1,2
+TR00005,36-45,Beginner,76387,62307,-18.74,30.4,42.83,0.23,0.83,17,25.42,54.09,4.86,Intraday,F&O,Technical Analysis,23.27,0,5
+TR00006,36-45,Intermediate,199143,205353,3.24,8.05,19.37,0.49,1.44,17,9.53,30.85,4.47,Swing,F&O,Technical Analysis,61.89,1,2
+TR00007,46-55,Beginner,69275,61777,-9.95,23.98,31.4,0.35,0.62,16,0.25,77.46,6.17,Intraday,Mixed,Technical Analysis,31.73,0,4
+TR00008,18-25,Beginner,82369,73072,-10.9,22.82,29.06,0.4,0.67,28,19.47,61.61,5.35,Swing,F&O,Tips/Recommendations,30.71,0,4
+TR00009,26-35,Beginner,21938,18169,-18.6,41.49,43.54,0.24,1.09,20,11.49,36.5,5.22,Mixed,F&O,Fundamental Analysis,20.22,0,5
+TR00010,18-25,Beginner,45195,42709,-6.02,13.38,18.2,0.37,0.75,20,0.87,58.0,5.47,Positional,Mixed,Mixed,34.15,0,3
+TR00011,26-35,Beginner,14000,12612,-9.95,44.83,48.72,0.3,1.08,13,0.71,69.04,7.31,Intraday,F&O,Tips/Recommendations,11.57,0,6
+TR00012,36-45,Beginner,80588,74212,-8.38,30.65,38.44,0.27,1.0,17,21.89,65.42,5.31,Mixed,F&O,Fundamental Analysis,14.79,0,5
+TR00013,18-25,Intermediate,413186,409775,-0.87,5.18,8.99,0.37,1.01,12,4.45,25.16,5.76,Swing,F&O,Tips/Recommendations,43.42,0,2
+TR00014,26-35,Beginner,48304,44149,-8.0,28.25,39.45,0.35,0.86,12,0.16,78.62,5.52,Intraday,F&O,Fundamental Analysis,12.3,0,5
+TR00015,36-45,Intermediate,381593,382306,0.2,10.38,15.6,0.4,1.61,10,4.35,33.46,5.8,Swing,Mixed,Technical Analysis,39.4,1,3
+TR00016,36-45,Intermediate,132986,131716,-0.92,6.89,19.14,0.42,1.08,9,8.37,24.77,5.33,Swing,F&O,Technical Analysis,63.21,0,2
+TR00017,26-35,Beginner,99643,90874,-9.22,20.25,40.71,0.21,1.08,11,0.33,39.01,4.81,Mixed,Commodities,Fundamental Analysis,38.45,0,4
+TR00018,36-45,Beginner,30764,29567,-3.7,9.0,13.49,0.36,0.88,21,0.24,34.91,7.32,Swing,Equity,Tips/Recommendations,19.14,0,3
+TR00019,46-55,Beginner,96027,90241,-5.77,23.7,30.24,0.35,0.62,15,0.95,70.18,3.55,Positional,F&O,Fundamental Analysis,17.94,0,4
+TR00020,18-25,Beginner,48494,46005,-5.69,39.87,47.28,0.35,0.91,11,20.54,36.1,7.63,Positional,Mixed,Mixed,18.4,0,6
+TR00021,46-55,Advanced,1514093,1578532,4.25,1.84,6.17,0.51,3.0,13,12.91,13.75,2.89,Mixed,Equity,Fundamental Analysis,69.72,1,1
+TR00022,36-45,Beginner,22161,20026,-10.38,31.45,33.76,0.23,0.61,10,0.37,72.52,3.27,Intraday,Equity,Fundamental Analysis,11.08,0,5
+TR00023,26-35,Intermediate,147532,152018,2.83,4.05,12.38,0.48,1.78,16,7.96,30.34,4.58,Swing,Mixed,Tips/Recommendations,67.08,1,2
+TR00024,26-35,Intermediate,404802,402137,-0.61,9.22,14.09,0.45,1.05,14,3.07,20.93,5.9,Intraday,Mixed,Tips/Recommendations,38.55,0,3
+TR00025,56+,Intermediate,435777,437480,0.4,7.54,15.97,0.39,1.74,10,2.18,21.56,2.28,Positional,Currency,News Events,46.8,1,2
+TR00026,26-35,Intermediate,150386,155689,3.57,9.4,15.98,0.49,1.68,17,8.81,24.27,4.22,Mixed,Currency,Technical Analysis,30.39,1,3
+TR00027,18-25,Advanced,751638,768131,2.28,0.48,4.62,0.65,1.95,13,14.56,16.4,3.24,Swing,F&O,Tips/Recommendations,90.03,1,0
+TR00028,18-25,Beginner,35351,31173,-11.33,25.29,37.38,0.35,0.73,26,0.13,63.26,7.05,Swing,F&O,Tips/Recommendations,31.93,0,4
+TR00029,46-55,Beginner,98668,95638,-3.16,6.75,13.51,0.35,1.05,19,0.92,37.87,5.07,Intraday,F&O,Fundamental Analysis,38.4,0,3
+TR00030,36-45,Beginner,25305,24046,-5.22,9.86,15.55,0.39,0.82,25,0.97,35.94,4.02,Mixed,F&O,Technical Analysis,33.45,0,3
+TR00031,46-55,Beginner,85353,79887,-6.49,6.86,10.11,0.24,1.01,24,0.5,68.24,3.21,Intraday,Mixed,Fundamental Analysis,19.41,0,3
+TR00032,36-45,Intermediate,257869,257125,-0.31,4.46,7.33,0.46,0.98,18,3.89,40.13,4.32,Positional,Currency,Technical Analysis,39.91,0,2
+TR00033,36-45,Intermediate,115953,123757,6.41,5.83,14.46,0.55,1.82,18,7.52,33.06,3.81,Swing,Equity,Tips/Recommendations,57.91,1,2
+TR00034,56+,Beginner,67458,56301,-18.33,28.3,34.24,0.23,1.0,24,0.77,57.47,7.74,Intraday,F&O,Tips/Recommendations,20.92,0,5
+TR00035,26-35,Intermediate,332502,353028,6.0,11.1,20.89,0.49,1.89,18,8.81,29.36,2.24,Swing,F&O,Mixed,52.65,1,3
+TR00036,36-45,Intermediate,53267,53201,-0.13,4.58,7.13,0.47,0.96,7,7.43,34.48,4.74,Intraday,Mixed,Tips/Recommendations,30.25,0,3
+TR00037,46-55,Beginner,92745,80702,-13.72,45.98,44.03,0.32,0.92,21,0.61,55.33,3.12,Intraday,F&O,Technical Analysis,11.86,0,6
+TR00038,36-45,Intermediate,401732,409426,1.86,9.82,19.92,0.49,1.52,11,5.89,31.62,2.69,Swing,F&O,Technical Analysis,51.41,1,3
+TR00039,46-55,Intermediate,350657,353405,0.71,6.53,13.17,0.54,1.22,8,2.43,47.2,3.81,Intraday,Currency,Tips/Recommendations,52.64,1,2
+TR00040,36-45,Beginner,36092,32636,-9.07,34.23,47.32,0.36,0.82,12,11.82,30.8,5.27,Intraday,Equity,Fundamental Analysis,32.54,0,5
+TR00041,36-45,Intermediate,61338,59403,-3.34,17.13,24.82,0.36,0.85,9,2.38,43.47,4.74,Mixed,Equity,Mixed,35.28,0,3
+TR00042,18-25,Advanced,331484,334520,0.98,1.03,4.67,0.62,2.62,4,8.44,13.73,3.73,Mixed,Mixed,Technical Analysis,77.96,1,1
+TR00043,26-35,Beginner,17543,15482,-10.95,20.58,25.17,0.25,0.88,16,0.58,69.88,6.2,Swing,Equity,Mixed,15.83,0,4
+TR00044,26-35,Beginner,43496,35861,-17.75,33.71,47.06,0.28,0.54,18,0.82,60.8,7.77,Intraday,Mixed,Technical Analysis,12.8,0,6
+TR00045,18-25,Beginner,70692,64866,-8.89,24.42,38.86,0.29,0.98,16,29.35,72.16,7.41,Intraday,F&O,Tips/Recommendations,22.31,0,5
+TR00046,26-35,Intermediate,270156,270396,0.08,3.57,5.96,0.45,1.36,6,2.67,22.93,4.34,Swing,Currency,Technical Analysis,36.53,1,2
+TR00047,18-25,Advanced,1472568,1484121,0.74,3.66,12.16,0.54,1.55,5,8.55,26.77,3.5,Mixed,Equity,Tips/Recommendations,67.76,1,2
+TR00048,26-35,Beginner,54425,51145,-5.49,33.14,43.12,0.39,1.18,23,0.1,55.05,6.21,Intraday,Commodities,Mixed,19.53,0,5
+TR00049,36-45,Intermediate,88756,90464,1.78,10.21,20.01,0.49,1.94,6,6.47,41.19,2.31,Swing,Equity,Technical Analysis,40.38,1,3
+TR00050,26-35,Beginner,28888,26161,-8.82,40.17,41.98,0.33,0.86,18,0.32,56.71,6.7,Swing,F&O,Tips/Recommendations,12.63,0,6
+TR00051,26-35,Intermediate,216807,207945,-4.49,16.32,21.5,0.36,0.91,14,3.03,36.22,2.38,Intraday,Equity,Tips/Recommendations,33.6,0,3
+TR00052,26-35,Intermediate,359439,363306,1.17,6.39,8.73,0.53,1.71,9,2.45,32.89,4.38,Positional,Equity,Technical Analysis,37.73,1,2
+TR00053,26-35,Beginner,93042,90696,-2.49,17.14,19.43,0.38,0.84,11,16.52,45.44,6.51,Intraday,Currency,Tips/Recommendations,11.52,0,4
+TR00054,56+,Intermediate,135999,136530,0.39,8.58,17.68,0.51,1.16,8,6.31,34.47,2.27,Swing,Equity,Tips/Recommendations,55.06,1,2
+TR00055,36-45,Intermediate,67955,66163,-2.66,15.48,23.16,0.35,1.39,16,4.9,23.55,2.92,Swing,Equity,Tips/Recommendations,41.49,0,3
+TR00056,36-45,Intermediate,349985,346732,-0.95,6.44,11.32,0.36,1.43,19,9.86,48.85,5.66,Intraday,Mixed,Technical Analysis,41.19,0,2
+TR00057,26-35,Beginner,80640,70150,-13.19,24.79,33.53,0.25,0.89,16,0.23,65.72,6.08,Intraday,Equity,Technical Analysis,19.96,0,4
+TR00058,36-45,Advanced,396582,407484,2.71,2.15,10.88,0.48,2.16,13,11.17,38.57,1.74,Positional,Equity,Technical Analysis,83.2,1,1
+TR00059,26-35,Intermediate,478127,481016,0.67,4.97,14.04,0.43,1.53,17,4.56,26.8,4.76,Mixed,Equity,Technical Analysis,64.83,1,2
+TR00060,26-35,Beginner,69031,65976,-4.65,25.89,38.55,0.38,1.14,17,0.98,73.97,5.98,Mixed,F&O,Fundamental Analysis,32.77,0,4
+TR00061,56+,Beginner,98726,82257,-16.62,27.32,45.99,0.29,0.75,24,0.69,70.44,5.51,Mixed,F&O,Fundamental Analysis,31.83,0,5
+TR00062,36-45,Beginner,17357,15617,-9.6,22.25,34.96,0.2,1.01,12,0.96,63.86,7.88,Intraday,F&O,Fundamental Analysis,24.53,0,4
+TR00063,36-45,Beginner,42479,37808,-11.76,24.85,31.59,0.26,1.13,23,0.75,61.25,6.42,Swing,Equity,News Events,30.81,0,4
+TR00064,36-45,Beginner,71476,55494,-22.15,21.15,27.55,0.21,0.82,26,12.06,45.83,4.88,Swing,Mixed,News Events,26.58,0,4
+TR00065,46-55,Intermediate,356955,354533,-0.65,9.45,16.55,0.36,1.33,8,6.14,44.49,5.2,Intraday,Mixed,News Events,38.65,0,3
+TR00066,46-55,Intermediate,217280,217433,0.07,6.54,12.11,0.41,1.52,6,1.17,35.05,5.54,Intraday,Equity,Mixed,38.34,1,3
+TR00067,26-35,Beginner,30150,28177,-7.23,21.27,25.66,0.26,0.91,17,0.53,33.54,3.63,Mixed,F&O,Mixed,18.89,0,4
+TR00068,18-25,Advanced,1844044,1880407,1.99,0.75,8.91,0.61,2.71,5,7.15,19.39,1.6,Intraday,Mixed,Fundamental Analysis,91.88,1,1
+TR00069,26-35,Intermediate,224358,225266,0.42,2.69,6.33,0.54,1.37,6,7.98,48.06,2.86,Positional,F&O,Technical Analysis,51.9,1,2
+TR00070,26-35,Intermediate,162856,166967,2.32,4.44,9.58,0.42,2.0,18,9.47,45.52,4.76,Intraday,F&O,Mixed,59.36,1,2
+TR00071,26-35,Intermediate,380594,377111,-0.99,7.42,15.86,0.44,0.87,10,1.65,49.46,4.41,Mixed,Currency,Tips/Recommendations,43.86,0,3
+TR00072,56+,Beginner,31352,29100,-6.97,19.98,27.26,0.37,0.5,19,27.65,61.4,6.09,Intraday,Equity,Tips/Recommendations,22.23,0,4
+TR00073,46-55,Intermediate,236141,236403,0.12,8.12,11.66,0.4,1.57,8,1.74,27.43,5.76,Intraday,Equity,News Events,35.02,1,3
+TR00074,26-35,Advanced,1098320,1109489,1.03,3.56,11.5,0.48,1.95,7,12.89,14.88,3.33,Positional,Equity,Mixed,66.0,1,2
+TR00075,36-45,Beginner,24397,21415,-12.09,27.83,37.75,0.37,0.67,27,0.42,39.35,3.64,Swing,Currency,Technical Analysis,34.82,0,4
+TR00076,26-35,Intermediate,484771,479810,-1.07,4.26,8.33,0.36,1.17,14,9.8,20.59,3.39,Swing,F&O,Technical Analysis,53.39,0,2
+TR00077,56+,Beginner,56959,49769,-12.74,40.23,45.15,0.32,0.68,21,0.28,49.53,5.18,Positional,Equity,Tips/Recommendations,20.13,0,5
+TR00078,26-35,Beginner,10728,10233,-4.95,16.66,29.82,0.31,0.52,11,10.82,39.57,4.98,Swing,Currency,Technical Analysis,34.09,0,4
+TR00079,26-35,Beginner,60517,52345,-14.05,28.05,39.66,0.27,1.18,19,0.7,50.58,6.35,Swing,Mixed,Tips/Recommendations,17.4,0,5
+TR00080,26-35,Intermediate,169180,166409,-1.6,4.66,16.46,0.41,1.06,18,2.12,48.05,5.57,Mixed,Equity,News Events,69.04,0,2
+TR00081,36-45,Beginner,76234,72016,-5.76,40.04,49.91,0.35,1.01,13,0.91,51.53,4.53,Swing,Mixed,Tips/Recommendations,20.34,0,6
+TR00082,26-35,Intermediate,89954,89921,-0.03,12.45,20.05,0.37,1.72,18,6.55,46.34,4.21,Swing,F&O,Tips/Recommendations,43.49,0,3
+TR00083,36-45,Intermediate,228352,234206,2.5,12.49,19.14,0.4,1.92,19,6.52,38.17,5.16,Intraday,Commodities,Mixed,42.48,1,3
+TR00084,46-55,Beginner,89459,74584,-16.83,38.42,41.14,0.35,0.52,25,28.7,42.36,5.08,Intraday,Mixed,Technical Analysis,13.66,0,5
+TR00085,26-35,Intermediate,459995,467665,1.84,6.04,7.86,0.46,1.85,19,9.53,30.68,2.67,Swing,Equity,Tips/Recommendations,34.45,1,2
+TR00086,26-35,Beginner,73932,69846,-5.53,14.05,18.18,0.23,0.87,17,0.66,34.2,5.37,Swing,Commodities,Technical Analysis,29.44,0,3
+TR00087,56+,Beginner,82936,74172,-10.04,22.68,38.56,0.38,0.94,23,0.65,46.67,3.28,Mixed,Currency,Technical Analysis,36.25,0,4
+TR00088,36-45,Intermediate,467682,470361,0.6,5.17,14.88,0.43,1.57,11,6.95,40.33,5.77,Positional,Equity,Technical Analysis,61.62,1,2
+TR00089,18-25,Beginner,46939,43396,-7.11,37.17,40.19,0.37,1.07,17,21.95,33.61,3.37,Intraday,Currency,Tips/Recommendations,14.23,0,5
+TR00090,18-25,Beginner,79896,75066,-6.36,9.12,14.12,0.36,0.73,25,19.62,40.27,5.19,Intraday,Mixed,News Events,26.37,0,3
+TR00091,18-25,Intermediate,478486,494332,3.11,8.66,15.73,0.47,1.68,17,1.37,31.44,4.12,Positional,Equity,Tips/Recommendations,34.22,1,3
+TR00092,36-45,Beginner,69163,62495,-10.51,22.58,25.15,0.3,0.87,27,18.77,79.1,7.93,Mixed,Equity,Technical Analysis,11.36,0,4
+TR00093,46-55,Beginner,92637,88346,-4.32,22.44,28.28,0.4,1.06,24,0.75,69.24,3.83,Swing,Equity,Fundamental Analysis,29.69,0,4
+TR00094,26-35,Intermediate,101934,102679,0.73,6.98,17.08,0.38,1.99,9,6.85,42.0,2.46,Positional,F&O,Fundamental Analysis,51.41,1,2
+TR00095,18-25,Beginner,74895,68300,-9.18,29.42,30.09,0.35,0.64,22,22.31,35.81,3.04,Positional,Mixed,Tips/Recommendations,12.46,0,5
+TR00096,26-35,Intermediate,475523,480407,1.08,12.19,15.8,0.39,1.99,13,3.96,43.43,2.62,Intraday,F&O,Tips/Recommendations,31.4,1,3
+TR00097,56+,Intermediate,366242,357608,-2.39,4.45,14.73,0.42,0.91,17,5.23,43.56,2.83,Intraday,F&O,Technical Analysis,69.59,0,2
+TR00098,36-45,Beginner,70921,59770,-14.3,19.33,26.36,0.26,0.5,24,0.77,60.06,6.15,Mixed,F&O,Mixed,10.9,0,4
+TR00099,56+,Beginner,15486,13444,-13.97,27.26,40.88,0.39,0.53,22,0.49,79.52,4.1,Positional,F&O,Fundamental Analysis,23.34,0,5
+TR00100,46-55,Advanced,1387983,1390171,0.17,0.52,2.16,0.64,2.01,2,4.94,19.76,1.06,Mixed,Mixed,Technical Analysis,77.66,1,1
+TR00101,18-25,Beginner,96900,84714,-12.37,31.84,33.94,0.24,0.94,16,23.07,77.06,7.13,Intraday,Equity,Mixed,13.52,0,5
+TR00102,36-45,Intermediate,176020,172351,-2.09,11.96,16.31,0.35,0.88,13,3.99,47.44,3.46,Swing,F&O,Technical Analysis,36.76,0,3
+TR00103,36-45,Beginner,99112,90203,-8.95,31.72,38.65,0.34,0.5,10,19.87,30.57,4.77,Swing,Equity,Tips/Recommendations,20.55,0,5
+TR00104,36-45,Intermediate,192202,196868,2.35,5.7,16.98,0.43,1.92,16,1.73,33.5,3.21,Intraday,Commodities,Tips/Recommendations,60.47,1,2
+TR00105,26-35,Intermediate,399652,400756,0.29,9.09,21.54,0.37,1.79,12,4.63,49.31,5.9,Positional,F&O,Technical Analysis,50.28,1,3
+TR00106,36-45,Intermediate,287027,301659,4.71,11.71,24.18,0.49,1.77,12,2.99,23.09,2.68,Positional,Currency,Technical Analysis,55.52,1,3
+TR00107,18-25,Beginner,70566,65420,-7.39,12.51,23.7,0.31,1.12,20,0.48,57.39,7.49,Swing,F&O,Tips/Recommendations,39.56,0,3
+TR00108,26-35,Intermediate,247775,250612,1.24,3.49,9.55,0.55,1.64,7,8.56,49.37,5.11,Intraday,Currency,News Events,60.72,1,2
+TR00109,26-35,Beginner,37192,32438,-12.19,20.63,26.94,0.25,0.57,26,0.26,57.77,3.38,Intraday,Equity,Technical Analysis,23.03,0,4
+TR00110,56+,Beginner,11062,10299,-6.71,13.35,21.52,0.28,0.78,17,26.92,39.49,7.93,Intraday,F&O,Technical Analysis,23.39,0,4
+TR00111,46-55,Intermediate,134076,135560,1.15,7.04,17.3,0.46,1.67,7,6.66,37.47,3.09,Swing,Equity,Tips/Recommendations,54.75,1,2
+TR00112,26-35,Beginner,99780,91443,-8.16,31.35,46.47,0.36,0.7,12,25.35,40.22,3.49,Mixed,F&O,Fundamental Analysis,29.96,0,5
+TR00113,36-45,Intermediate,202617,203367,0.39,3.55,7.78,0.46,1.62,5,5.54,35.59,5.32,Intraday,Equity,Technical Analysis,50.03,1,2
+TR00114,26-35,Beginner,31689,30576,-3.55,8.47,14.03,0.32,0.52,14,20.28,33.7,6.53,Swing,F&O,Technical Analysis,29.35,0,3
+TR00115,56+,Beginner,21174,19388,-7.81,19.72,20.24,0.25,0.71,19,0.63,60.27,6.09,Intraday,F&O,Tips/Recommendations,10.71,0,4
+TR00116,46-55,Beginner,98461,92504,-6.53,33.88,39.04,0.37,0.88,16,22.12,55.84,3.78,Mixed,F&O,Technical Analysis,22.89,0,5
+TR00117,26-35,Intermediate,438318,442496,0.98,8.96,16.86,0.44,1.56,14,6.38,42.2,3.91,Positional,F&O,Technical Analysis,41.16,1,3
+TR00118,36-45,Beginner,19348,18126,-5.93,13.47,14.09,0.23,0.9,18,23.1,61.54,6.9,Swing,F&O,Technical Analysis,13.88,0,4
+TR00119,36-45,Intermediate,466930,490415,4.6,14.73,23.38,0.48,1.64,16,9.93,36.49,3.21,Intraday,F&O,Tips/Recommendations,33.98,1,3
+TR00120,26-35,Beginner,48102,39270,-18.53,29.99,41.6,0.24,0.5,16,0.36,64.49,4.56,Intraday,Equity,Mixed,28.1,0,5
+TR00121,46-55,Beginner,84460,79298,-6.1,9.27,10.92,0.22,0.57,18,0.45,37.2,3.02,Intraday,Mixed,Tips/Recommendations,25.71,0,3
+TR00122,36-45,Beginner,99930,93353,-6.49,32.68,36.05,0.37,1.11,17,14.72,59.77,3.87,Intraday,F&O,News Events,17.61,0,5
+TR00123,46-55,Beginner,16801,13652,-17.25,34.78,40.85,0.29,0.98,21,0.8,38.61,7.38,Swing,Mixed,News Events,24.13,0,5
+TR00124,36-45,Beginner,82267,79182,-3.5,16.06,24.98,0.35,0.58,11,0.64,76.28,5.21,Positional,Equity,Technical Analysis,24.77,0,4
+TR00125,18-25,Beginner,58136,56679,-2.68,8.89,12.76,0.26,1.09,10,0.44,33.42,7.92,Intraday,F&O,Fundamental Analysis,15.85,0,3
+TR00126,26-35,Intermediate,204697,204989,0.14,3.33,6.55,0.51,1.09,11,4.72,32.91,3.58,Mixed,F&O,Fundamental Analysis,56.08,1,2
+TR00127,18-25,Beginner,92873,89496,-3.66,9.01,14.17,0.22,0.83,14,18.74,64.79,6.58,Positional,Equity,Tips/Recommendations,33.43,0,3
+TR00128,56+,Beginner,82592,71386,-12.83,26.45,43.62,0.27,0.6,12,18.1,52.9,4.41,Mixed,F&O,Tips/Recommendations,33.74,0,5
+TR00129,46-55,Beginner,87052,80565,-7.3,36.39,46.43,0.4,1.0,21,21.59,34.6,4.82,Mixed,F&O,Technical Analysis,28.07,0,5
+TR00130,46-55,Intermediate,487477,491742,0.85,4.19,7.46,0.51,1.6,12,6.96,36.6,2.76,Intraday,F&O,Tips/Recommendations,50.47,1,2
+TR00131,26-35,Advanced,725830,730683,0.61,2.2,5.07,0.55,1.82,7,4.14,29.25,2.04,Intraday,Equity,Fundamental Analysis,62.14,1,1
+TR00132,18-25,Beginner,31677,30971,-2.44,12.53,16.62,0.27,1.1,12,16.24,65.19,5.74,Intraday,F&O,Tips/Recommendations,18.63,0,3
+TR00133,46-55,Beginner,56732,55184,-2.89,17.36,17.45,0.37,0.78,10,27.16,48.66,7.96,Intraday,Equity,Mixed,12.8,0,4
+TR00134,56+,Beginner,60343,56159,-7.06,21.69,43.5,0.31,0.7,12,21.77,58.18,6.32,Intraday,F&O,Fundamental Analysis,38.91,0,4
+TR00135,18-25,Beginner,49081,46852,-4.68,16.41,23.29,0.35,0.61,14,0.64,52.53,4.0,Intraday,F&O,Fundamental Analysis,14.05,0,4
+TR00136,26-35,Beginner,72856,67346,-8.36,20.14,22.46,0.35,0.69,24,0.31,63.6,3.22,Intraday,Equity,Technical Analysis,14.55,0,4
+TR00137,18-25,Beginner,98858,88778,-11.1,9.98,19.1,0.2,0.52,23,0.9,59.18,3.63,Intraday,F&O,Technical Analysis,36.69,0,3
+TR00138,46-55,Beginner,29065,25538,-11.71,19.68,34.32,0.23,0.91,12,18.98,56.29,5.81,Positional,Mixed,Technical Analysis,38.32,0,4
+TR00139,46-55,Beginner,93460,91213,-2.23,18.04,25.17,0.33,1.09,10,12.92,42.48,6.83,Intraday,Mixed,Tips/Recommendations,32.97,0,4
+TR00140,18-25,Beginner,98092,85684,-12.61,33.4,39.77,0.23,0.88,14,0.5,30.1,7.7,Intraday,Currency,Tips/Recommendations,10.16,0,5
+TR00141,26-35,Advanced,1767908,1784860,0.95,1.63,4.67,0.5,1.83,11,14.38,15.22,1.05,Intraday,F&O,News Events,60.05,1,1
+TR00142,36-45,Intermediate,366837,366539,-0.09,10.39,20.76,0.54,0.84,11,3.27,23.51,4.09,Mixed,F&O,Tips/Recommendations,45.12,0,3
+TR00143,26-35,Intermediate,339106,336654,-0.69,10.79,17.07,0.46,1.06,19,4.23,33.47,3.88,Swing,Mixed,News Events,35.74,0,3
+TR00144,46-55,Beginner,38295,35919,-5.91,12.9,14.57,0.35,0.79,23,22.11,60.61,6.28,Positional,F&O,Fundamental Analysis,10.55,0,4
+TR00145,26-35,Intermediate,63807,64524,1.1,7.61,13.29,0.46,1.71,11,4.21,26.39,4.24,Positional,Equity,Technical Analysis,48.56,1,2
+TR00146,26-35,Beginner,52348,45075,-14.74,30.24,44.54,0.31,0.63,18,25.64,76.95,6.44,Swing,Mixed,Technical Analysis,38.29,0,5
+TR00147,36-45,Intermediate,207504,206953,-0.29,13.15,23.46,0.37,1.66,19,7.35,20.2,4.63,Swing,F&O,Tips/Recommendations,42.95,0,3
+TR00148,36-45,Intermediate,288067,294739,2.54,7.1,14.31,0.42,1.84,19,5.02,43.17,2.47,Mixed,F&O,Fundamental Analysis,56.45,1,2
+TR00149,26-35,Beginner,67854,61372,-9.38,17.41,29.23,0.26,0.82,19,21.16,61.26,7.0,Intraday,Mixed,Mixed,29.57,0,4
+TR00150,26-35,Beginner,50262,42897,-13.76,34.77,46.74,0.28,1.08,22,10.68,48.68,3.62,Intraday,F&O,Technical Analysis,17.53,0,5
+TR00151,56+,Beginner,47080,41634,-10.79,26.7,33.48,0.36,0.89,28,12.46,32.52,6.49,Intraday,Currency,Fundamental Analysis,29.51,0,4
+TR00152,36-45,Beginner,11324,11046,-2.47,9.0,11.31,0.27,0.95,16,0.31,61.37,5.08,Mixed,Mixed,Fundamental Analysis,16.37,0,3
+TR00153,26-35,Advanced,717923,723219,0.7,5.91,13.87,0.54,2.29,2,10.68,21.57,2.54,Swing,Currency,Technical Analysis,64.27,1,2
+TR00154,36-45,Beginner,45909,38660,-14.49,13.56,19.93,0.28,0.82,29,13.6,76.81,7.52,Intraday,Commodities,Fundamental Analysis,31.04,0,3
+TR00155,18-25,Intermediate,270411,263942,-2.5,12.1,16.55,0.37,1.08,17,1.8,36.26,5.56,Positional,Commodities,Fundamental Analysis,34.54,0,3
+TR00156,26-35,Beginner,29870,28488,-4.72,9.6,16.62,0.29,0.71,13,21.69,76.98,7.09,Intraday,Currency,Technical Analysis,39.91,0,3
+TR00157,26-35,Beginner,44578,42505,-4.28,9.31,11.36,0.24,0.7,14,17.95,41.02,5.55,Intraday,F&O,Tips/Recommendations,15.5,0,3
+TR00158,36-45,Intermediate,253196,252740,-0.19,4.95,11.23,0.39,1.48,11,5.32,41.77,4.94,Intraday,F&O,Tips/Recommendations,53.77,0,2
+TR00159,26-35,Beginner,36790,31377,-13.59,34.82,41.22,0.22,0.58,16,10.35,60.86,5.56,Swing,Currency,Mixed,22.34,0,5
+TR00160,26-35,Beginner,35289,32810,-6.41,18.54,21.1,0.27,1.14,22,29.46,66.97,7.35,Swing,F&O,News Events,13.79,0,4
+TR00161,18-25,Intermediate,498345,509325,2.13,7.63,9.4,0.5,1.66,19,6.22,26.44,3.61,Intraday,F&O,Tips/Recommendations,31.11,1,3
+TR00162,36-45,Beginner,25485,23118,-8.73,11.88,18.51,0.26,0.78,20,0.33,63.25,7.85,Positional,F&O,Technical Analysis,28.68,0,3
+TR00163,26-35,Advanced,1334764,1360599,1.84,0.86,8.7,0.51,1.74,14,7.11,24.94,3.8,Swing,Mixed,Technical Analysis,88.24,1,1
+TR00164,56+,Beginner,14748,13910,-5.46,30.38,49.02,0.33,1.12,13,12.51,67.14,6.71,Swing,Equity,Technical Analysis,35.26,0,5
+TR00165,46-55,Intermediate,267841,269986,0.83,7.52,14.18,0.39,1.79,17,2.19,29.81,3.12,Swing,Commodities,Fundamental Analysis,49.31,1,2
+TR00166,18-25,Intermediate,190507,196865,3.66,7.19,16.15,0.53,1.67,11,2.29,46.7,2.53,Swing,Mixed,Technical Analysis,61.1,1,2
+TR00167,26-35,Intermediate,315853,314169,-0.55,8.98,22.21,0.45,1.13,15,9.46,22.53,5.42,Positional,Equity,Fundamental Analysis,56.91,0,2
+TR00168,36-45,Beginner,40355,31868,-20.35,22.76,31.4,0.29,0.78,28,0.76,70.36,3.83,Intraday,F&O,News Events,31.73,0,4
+TR00169,26-35,Beginner,65771,62991,-4.59,12.29,17.38,0.31,0.57,11,0.27,73.07,7.27,Intraday,Equity,News Events,24.78,0,3
+TR00170,18-25,Beginner,67799,62138,-9.25,16.34,21.98,0.23,0.63,19,0.24,70.86,5.45,Intraday,Mixed,Fundamental Analysis,29.0,0,3
+TR00171,56+,Beginner,23116,21454,-7.75,17.01,22.4,0.32,1.05,22,0.97,55.64,5.03,Swing,F&O,Fundamental Analysis,34.17,0,3
+TR00172,36-45,Intermediate,206542,208489,0.9,6.25,12.95,0.42,1.66,18,6.95,33.15,5.61,Intraday,F&O,News Events,45.92,1,2
+TR00173,26-35,Advanced,1421992,1480323,3.75,0.86,7.55,0.63,2.39,10,14.74,39.89,2.81,Swing,Currency,Mixed,88.21,1,1
+TR00174,46-55,Beginner,52918,44943,-13.74,36.32,41.99,0.23,1.13,15,10.35,41.46,5.88,Swing,F&O,Mixed,27.76,0,5
+TR00175,46-55,Intermediate,364368,366934,0.71,8.72,11.99,0.45,1.5,16,3.2,36.41,4.24,Intraday,Mixed,Technical Analysis,36.64,1,3
+TR00176,26-35,Intermediate,89298,90420,1.17,10.17,14.36,0.47,1.36,16,8.48,40.12,3.48,Mixed,F&O,Technical Analysis,30.99,1,3
+TR00177,18-25,Intermediate,392363,380228,-2.95,9.78,17.5,0.36,1.21,16,8.78,41.03,5.14,Swing,Equity,Technical Analysis,44.51,0,3
+TR00178,26-35,Advanced,1310205,1352518,3.23,1.32,6.91,0.52,2.91,13,12.22,16.12,1.76,Positional,Equity,Technical Analysis,79.13,1,1
+TR00179,26-35,Beginner,76040,54788,-27.55,28.36,43.46,0.35,0.56,29,0.2,62.7,7.69,Swing,F&O,Tips/Recommendations,35.19,0,5
+TR00180,26-35,Beginner,38016,36482,-4.35,32.89,33.5,0.36,1.15,20,22.01,70.92,7.47,Intraday,F&O,Tips/Recommendations,13.82,0,5
+TR00181,36-45,Intermediate,73960,74750,0.98,4.44,10.88,0.41,1.79,14,9.47,21.5,3.35,Mixed,F&O,Mixed,62.01,1,2
+TR00182,36-45,Beginner,43591,39164,-10.46,22.65,38.56,0.36,0.59,16,0.84,75.58,6.65,Intraday,F&O,Mixed,35.89,0,4
+TR00183,56+,Beginner,92848,89865,-3.25,23.41,31.11,0.39,0.9,10,0.62,31.48,5.87,Intraday,F&O,Fundamental Analysis,14.52,0,5
+TR00184,18-25,Beginner,77641,74886,-3.43,18.32,31.38,0.37,1.11,10,22.1,47.8,4.69,Intraday,Equity,Technical Analysis,35.55,0,4
+TR00185,26-35,Beginner,46395,35693,-23.86,15.29,29.24,0.22,0.9,29,0.39,30.79,7.94,Positional,Equity,Fundamental Analysis,39.74,0,3
+TR00186,26-35,Beginner,32700,30238,-7.92,17.08,29.88,0.35,1.14,22,25.05,33.86,3.13,Intraday,Equity,News Events,31.81,0,4
+TR00187,46-55,Intermediate,346764,353697,1.95,7.59,20.31,0.41,1.93,13,1.81,47.34,3.01,Intraday,Equity,Tips/Recommendations,61.39,1,2
+TR00188,26-35,Beginner,30559,29891,-2.42,7.18,14.12,0.4,0.8,12,12.18,47.74,5.6,Intraday,Equity,Fundamental Analysis,39.83,0,3
+TR00189,26-35,Beginner,71642,67602,-5.4,14.59,23.37,0.3,0.76,16,25.3,51.24,5.61,Swing,F&O,Fundamental Analysis,28.16,0,4
+TR00190,26-35,Intermediate,257611,258384,0.3,3.83,6.51,0.37,1.92,10,9.33,26.46,4.36,Intraday,Currency,Tips/Recommendations,42.32,1,2
+TR00191,26-35,Intermediate,333876,342479,2.52,6.34,20.06,0.5,1.61,12,4.94,37.91,5.01,Swing,F&O,Fundamental Analysis,63.5,1,2
+TR00192,26-35,Beginner,40354,37701,-6.41,12.34,20.89,0.26,0.58,18,0.91,59.74,6.12,Positional,Equity,Technical Analysis,28.43,0,3
+TR00193,26-35,Intermediate,325987,326991,0.31,9.95,22.95,0.55,0.85,18,3.85,31.17,4.4,Intraday,Mixed,News Events,53.25,1,3
+TR00194,56+,Advanced,1227512,1253329,2.07,2.44,8.85,0.65,2.35,6,13.43,19.99,1.16,Intraday,Mixed,Tips/Recommendations,68.88,1,1
+TR00195,26-35,Intermediate,164065,166505,1.43,8.4,21.01,0.48,1.92,5,4.38,46.55,3.51,Intraday,F&O,Technical Analysis,60.25,1,2
+TR00196,46-55,Intermediate,383870,385283,0.35,13.79,24.58,0.38,1.81,7,3.67,31.5,2.93,Swing,Equity,Technical Analysis,33.27,1,3
+TR00197,36-45,Intermediate,67640,69377,2.46,7.92,21.8,0.49,1.61,14,6.84,34.81,3.06,Positional,Equity,Technical Analysis,66.97,1,2
+TR00198,18-25,Advanced,252528,256592,1.5,4.41,13.27,0.47,1.71,13,6.94,18.5,2.66,Swing,Equity,Technical Analysis,71.4,1,2
+TR00199,56+,Beginner,48413,43133,-11.63,24.89,26.32,0.21,0.68,24,22.2,69.34,4.0,Mixed,F&O,Tips/Recommendations,13.83,0,4
+TR00200,46-55,Beginner,62638,59489,-5.13,24.93,32.07,0.36,1.11,18,17.61,49.87,4.47,Swing,Currency,News Events,23.27,0,4
+TR00201,56+,Intermediate,495952,493225,-0.5,7.88,10.08,0.39,1.02,8,5.94,35.41,2.95,Intraday,Mixed,Tips/Recommendations,31.7,0,3
+TR00202,56+,Advanced,701108,702589,0.22,0.79,4.55,0.53,1.92,2,10.16,17.6,3.85,Intraday,F&O,Fundamental Analysis,83.96,1,1
+TR00203,46-55,Intermediate,160133,161016,0.6,4.12,15.11,0.54,0.96,18,5.91,49.63,5.78,Positional,Mixed,News Events,66.11,1,2
+TR00204,26-35,Beginner,78866,62198,-21.03,21.0,33.8,0.27,0.97,26,10.29,44.57,6.05,Mixed,F&O,News Events,35.12,0,4
+TR00205,26-35,Beginner,29087,25145,-14.7,23.16,23.57,0.26,1.16,29,0.63,68.54,7.62,Intraday,Mixed,Technical Analysis,13.82,0,4
+TR00206,26-35,Beginner,51430,47330,-8.47,26.52,32.78,0.38,0.69,21,0.68,51.37,6.93,Intraday,F&O,News Events,13.79,0,5
+TR00207,26-35,Intermediate,205576,200472,-2.26,6.94,22.75,0.37,1.37,18,5.5,26.19,4.36,Positional,Equity,Mixed,62.54,0,2
+TR00208,18-25,Intermediate,450330,461208,2.4,5.85,16.13,0.5,1.56,11,5.88,43.99,2.03,Mixed,Mixed,News Events,66.97,1,2
+TR00209,26-35,Beginner,88859,86505,-2.77,33.16,38.83,0.4,1.2,11,0.96,46.68,6.86,Intraday,Mixed,Tips/Recommendations,23.82,0,5
+TR00210,56+,Beginner,20975,18989,-8.62,27.37,42.21,0.38,0.57,12,26.28,73.26,6.51,Intraday,Equity,Tips/Recommendations,24.97,0,5
+TR00211,26-35,Intermediate,61023,61399,0.56,14.4,24.77,0.48,1.4,5,1.98,47.46,4.46,Intraday,Mixed,Fundamental Analysis,42.73,1,3
+TR00212,46-55,Intermediate,71447,71135,-0.44,5.12,17.06,0.41,1.26,9,2.34,45.79,5.04,Positional,Equity,Technical Analysis,65.77,0,2
+TR00213,26-35,Advanced,588043,593471,0.97,2.37,12.49,0.5,2.8,2,9.32,11.05,2.54,Swing,Mixed,Fundamental Analysis,82.57,1,1
+TR00214,26-35,Beginner,33959,27363,-18.19,35.85,48.51,0.36,0.83,26,0.32,69.37,6.52,Intraday,F&O,Tips/Recommendations,18.65,0,5
+TR00215,56+,Beginner,76203,61993,-17.88,35.87,47.78,0.38,0.58,26,0.45,50.57,7.68,Swing,Equity,Tips/Recommendations,18.96,0,5
+TR00216,56+,Beginner,39703,38301,-3.4,11.26,15.64,0.31,0.94,11,24.31,73.69,4.88,Intraday,Mixed,Technical Analysis,36.74,0,3
+TR00217,36-45,Beginner,19337,17823,-7.26,23.3,26.26,0.25,1.04,11,26.45,61.9,6.54,Mixed,Commodities,Mixed,10.41,0,4
+TR00218,36-45,Beginner,56427,52264,-7.11,19.69,22.96,0.22,0.5,14,0.49,71.68,5.38,Intraday,Currency,Technical Analysis,19.68,0,4
+TR00219,26-35,Beginner,71529,70020,-2.2,9.5,13.48,0.22,1.1,10,29.09,54.97,6.37,Swing,Mixed,Technical Analysis,26.63,0,3
+TR00220,26-35,Beginner,94665,89677,-5.07,27.78,35.33,0.34,0.63,10,0.69,56.75,6.81,Intraday,F&O,Mixed,14.45,0,5
+TR00221,56+,Beginner,41921,32071,-24.45,36.13,39.44,0.28,0.89,28,19.58,37.22,3.23,Positional,Currency,Technical Analysis,12.76,0,5
+TR00222,36-45,Advanced,1544027,1571297,1.68,1.29,13.03,0.63,2.12,3,5.33,33.52,2.94,Intraday,F&O,Mixed,88.53,1,1
+TR00223,36-45,Intermediate,470571,475135,0.95,2.42,7.46,0.5,1.66,9,2.5,32.58,2.91,Intraday,F&O,Technical Analysis,65.78,1,1
+TR00224,36-45,Intermediate,177016,174197,-1.74,7.38,22.53,0.39,1.25,16,6.56,35.0,4.68,Intraday,Equity,Tips/Recommendations,62.94,0,2
+TR00225,18-25,Advanced,991267,1047168,5.62,0.95,10.36,0.57,2.8,11,9.28,33.55,2.4,Mixed,F&O,Technical Analysis,91.46,1,1
+TR00226,36-45,Advanced,1793023,1837705,2.57,2.71,11.15,0.54,2.6,7,11.04,27.97,3.32,Intraday,Equity,Tips/Recommendations,79.36,1,1
+TR00227,36-45,Intermediate,228677,233117,2.01,10.43,23.21,0.47,1.58,11,9.37,26.03,2.49,Intraday,Equity,Tips/Recommendations,62.49,1,2
+TR00228,46-55,Beginner,48088,45098,-6.09,26.91,34.99,0.35,1.06,13,0.58,59.51,6.13,Swing,Mixed,Mixed,21.52,0,5
+TR00229,26-35,Beginner,88752,83220,-6.46,14.78,23.43,0.36,1.03,20,24.35,50.38,4.39,Intraday,Currency,Tips/Recommendations,29.99,0,3
+TR00230,56+,Intermediate,367428,365216,-0.57,6.4,21.5,0.52,0.84,12,4.6,34.09,5.41,Positional,Equity,Fundamental Analysis,69.55,0,2
+TR00231,18-25,Beginner,67043,56120,-17.82,23.24,24.52,0.25,0.78,26,0.98,31.42,7.64,Intraday,F&O,Tips/Recommendations,16.77,0,4
+TR00232,26-35,Intermediate,216619,216974,0.16,2.73,5.68,0.36,1.92,19,5.7,26.3,5.99,Intraday,F&O,Tips/Recommendations,45.6,1,2
+TR00233,36-45,Advanced,282844,289259,2.14,3.51,12.8,0.6,1.69,7,4.48,18.43,3.39,Intraday,Mixed,Tips/Recommendations,76.8,1,1
+TR00234,36-45,Beginner,37532,34311,-8.3,19.15,23.81,0.22,1.02,14,0.87,65.65,6.77,Intraday,Mixed,Tips/Recommendations,14.14,0,4
+TR00235,26-35,Intermediate,215421,219423,1.86,16.33,20.48,0.41,1.97,8,2.66,20.34,2.86,Mixed,Equity,News Events,33.24,1,3
+TR00236,18-25,Intermediate,172402,170897,-0.8,5.12,12.26,0.35,0.86,6,3.66,32.26,3.34,Intraday,Equity,News Events,63.19,0,2
+TR00237,46-55,Beginner,55445,51250,-7.88,30.3,44.44,0.34,0.98,15,13.7,76.2,5.33,Intraday,F&O,News Events,39.3,0,5
+TR00238,26-35,Beginner,15713,14754,-6.75,13.56,18.78,0.23,0.83,20,18.49,35.59,6.87,Intraday,F&O,Technical Analysis,22.14,0,3
+TR00239,36-45,Beginner,66178,53580,-19.3,34.39,48.98,0.33,0.91,25,26.31,55.82,7.57,Intraday,F&O,Mixed,12.63,0,6
+TR00240,36-45,Beginner,59407,51983,-13.79,34.55,41.19,0.4,0.56,25,20.53,69.33,3.95,Intraday,Mixed,Technical Analysis,11.97,0,5
+TR00241,26-35,Intermediate,100990,100523,-0.42,2.3,7.28,0.36,0.85,5,2.01,48.28,5.69,Intraday,Equity,News Events,65.65,0,1
+TR00242,36-45,Intermediate,179473,178942,-0.31,6.84,16.32,0.37,1.6,13,1.02,42.4,4.78,Positional,Equity,Mixed,48.55,0,2
+TR00243,36-45,Beginner,75545,65987,-11.96,39.81,49.41,0.27,1.08,15,0.67,66.03,6.05,Intraday,F&O,News Events,19.6,0,6
+TR00244,56+,Intermediate,370285,390477,5.17,7.06,14.42,0.52,1.74,17,6.34,44.79,2.8,Intraday,F&O,Mixed,49.06,1,2
+TR00245,26-35,Beginner,33793,32587,-3.78,14.65,17.28,0.24,0.88,12,0.81,52.31,3.28,Intraday,Currency,Tips/Recommendations,19.55,0,4
+TR00246,36-45,Advanced,1567290,1578706,0.71,1.99,8.3,0.52,1.65,5,5.1,34.18,2.71,Positional,Currency,Technical Analysis,77.12,1,1
+TR00247,26-35,Intermediate,276156,274966,-0.47,4.61,15.25,0.36,1.63,16,4.25,20.24,4.61,Mixed,Equity,Tips/Recommendations,64.38,0,2
+TR00248,26-35,Intermediate,218964,220566,0.73,10.94,19.83,0.5,1.09,15,9.15,47.74,2.84,Swing,Mixed,Fundamental Analysis,53.69,1,3
+TR00249,36-45,Beginner,11015,10406,-6.12,22.96,37.95,0.28,1.14,13,0.79,52.17,5.78,Intraday,Equity,Technical Analysis,30.84,0,4
+TR00250,26-35,Beginner,71813,64030,-10.0,20.18,26.1,0.35,1.09,28,16.04,57.67,7.28,Swing,Mixed,Technical Analysis,20.94,0,4
+TR00251,26-35,Beginner,37712,36778,-2.26,12.64,18.72,0.38,1.0,12,0.76,42.74,7.18,Positional,F&O,Tips/Recommendations,32.16,0,3
+TR00252,46-55,Advanced,1873361,1909523,2.04,1.95,10.39,0.5,2.92,4,11.06,32.28,3.78,Intraday,F&O,Tips/Recommendations,83.33,1,1
+TR00253,18-25,Beginner,18415,15384,-17.48,19.5,26.87,0.36,0.52,29,0.83,33.83,4.83,Swing,Currency,Technical Analysis,13.59,0,4
+TR00254,26-35,Beginner,72292,68744,-4.67,10.82,15.29,0.21,1.02,16,0.23,73.63,4.59,Intraday,Commodities,Technical Analysis,27.18,0,3
+TR00255,56+,Advanced,485977,494214,1.78,4.47,13.71,0.63,2.0,5,4.84,34.84,3.25,Swing,Equity,Technical Analysis,68.99,1,2
+TR00256,56+,Intermediate,185230,191680,3.23,6.31,18.82,0.48,1.89,13,3.12,26.48,3.72,Positional,Mixed,Technical Analysis,62.16,1,2
+TR00257,18-25,Beginner,72680,68563,-5.58,30.29,37.33,0.37,0.69,10,0.88,70.47,3.44,Intraday,Mixed,Tips/Recommendations,22.78,0,5
+TR00258,26-35,Beginner,30309,26187,-14.02,30.18,42.9,0.2,1.01,17,0.58,69.32,4.41,Intraday,F&O,Fundamental Analysis,39.84,0,4
+TR00259,26-35,Beginner,16970,15508,-8.08,32.62,31.19,0.23,1.11,16,14.6,61.61,5.09,Positional,F&O,Technical Analysis,12.78,0,5
+TR00260,56+,Beginner,82474,61174,-25.86,23.06,42.6,0.28,0.53,27,22.76,48.68,4.46,Swing,Equity,Tips/Recommendations,33.41,0,4
+TR00261,46-55,Intermediate,358684,358079,-0.16,5.76,14.96,0.43,1.28,12,3.31,28.14,3.33,Intraday,F&O,Tips/Recommendations,56.95,0,2
+TR00262,46-55,Intermediate,201456,201613,0.07,2.3,6.34,0.4,1.71,5,6.69,26.95,3.18,Intraday,F&O,Fundamental Analysis,60.7,1,2
+TR00263,26-35,Intermediate,330161,330164,0.0,7.26,13.1,0.43,1.35,15,1.53,29.56,2.17,Intraday,Currency,Technical Analysis,42.3,1,2
+TR00264,26-35,Beginner,85880,74473,-14.75,20.18,29.9,0.23,0.69,27,15.49,75.18,6.19,Swing,Equity,Tips/Recommendations,24.76,0,4
+TR00265,46-55,Beginner,18702,15679,-14.74,22.61,38.81,0.28,0.65,19,23.52,33.88,5.99,Intraday,F&O,Tips/Recommendations,33.9,0,4
+TR00266,36-45,Advanced,200404,201151,0.34,1.27,3.39,0.61,1.7,4,8.31,34.87,2.96,Mixed,F&O,Fundamental Analysis,68.14,1,1
+TR00267,36-45,Beginner,50943,49239,-3.67,15.16,15.6,0.3,1.1,16,0.5,47.44,3.96,Intraday,Equity,Tips/Recommendations,16.78,0,4
+TR00268,56+,Intermediate,228998,226656,-0.96,4.03,10.27,0.35,1.49,16,1.14,35.65,3.18,Intraday,F&O,Tips/Recommendations,52.04,0,2
+TR00269,36-45,Beginner,39189,34626,-11.74,14.36,20.66,0.28,0.55,25,26.37,69.72,6.1,Intraday,F&O,Mixed,25.71,0,3
+TR00270,18-25,Advanced,1523483,1552310,1.99,3.34,11.52,0.46,2.07,11,10.24,36.53,2.8,Intraday,F&O,Fundamental Analysis,69.88,1,1
+TR00271,46-55,Intermediate,199456,201757,1.07,5.21,10.01,0.54,1.24,13,4.04,30.34,4.03,Intraday,F&O,Fundamental Analysis,41.92,1,2
+TR00272,26-35,Beginner,70100,49763,-30.88,30.33,35.32,0.23,0.63,29,25.45,53.09,4.75,Intraday,F&O,News Events,18.34,0,5
+TR00273,36-45,Beginner,19860,16681,-14.69,21.02,29.77,0.34,0.8,26,22.91,50.73,7.56,Intraday,F&O,Mixed,33.15,0,4
+TR00274,56+,Intermediate,285365,287902,0.94,8.25,16.47,0.54,1.2,6,6.36,20.4,3.36,Intraday,Equity,Tips/Recommendations,56.08,1,2
+TR00275,18-25,Intermediate,392786,395463,0.67,8.76,21.76,0.52,1.21,5,4.61,28.88,3.82,Intraday,Equity,Technical Analysis,63.3,1,2
+TR00276,18-25,Beginner,60612,56926,-6.44,16.17,26.18,0.34,1.02,25,0.43,52.96,6.39,Intraday,F&O,Mixed,39.26,0,3
+TR00277,18-25,Advanced,1010006,1051487,4.07,2.99,12.02,0.62,1.83,13,10.41,22.33,2.63,Mixed,Equity,Tips/Recommendations,76.6,1,1
+TR00278,36-45,Advanced,400244,406962,1.62,2.56,7.49,0.65,2.46,6,8.31,31.66,2.04,Intraday,Equity,Tips/Recommendations,62.33,1,2
+TR00279,26-35,Beginner,20916,19633,-6.54,22.19,24.15,0.32,0.9,14,0.85,49.24,5.18,Intraday,Mixed,Mixed,11.44,0,4
+TR00280,36-45,Beginner,14809,12492,-15.58,39.05,48.35,0.31,0.9,18,0.16,54.47,6.97,Swing,Equity,Tips/Recommendations,18.87,0,6
+TR00281,36-45,Intermediate,213273,215851,1.22,2.42,8.69,0.48,1.6,13,3.44,32.89,3.11,Mixed,F&O,Fundamental Analysis,67.3,1,1
+TR00282,26-35,Beginner,63330,61912,-2.45,9.07,13.61,0.31,0.88,12,0.63,67.03,3.71,Intraday,Equity,Mixed,25.7,0,3
+TR00283,36-45,Intermediate,194528,199698,2.5,11.07,20.42,0.48,1.86,7,3.08,45.89,3.25,Positional,F&O,Tips/Recommendations,40.87,1,3
+TR00284,26-35,Beginner,66397,63403,-4.66,11.62,12.73,0.29,0.97,25,0.51,56.59,7.25,Positional,F&O,Fundamental Analysis,21.98,0,3
+TR00285,26-35,Beginner,48765,40601,-16.5,27.95,43.48,0.24,0.88,25,0.15,69.47,3.44,Intraday,F&O,Technical Analysis,27.96,0,5
+TR00286,56+,Intermediate,478032,478813,0.16,5.52,13.74,0.37,1.8,7,4.27,28.9,5.97,Swing,F&O,Technical Analysis,56.12,1,2
+TR00287,46-55,Advanced,1564652,1591058,1.68,4.56,13.9,0.46,2.41,5,14.95,26.24,2.62,Swing,Equity,News Events,65.39,1,2
+TR00288,18-25,Beginner,27100,24918,-8.74,25.13,38.86,0.25,0.7,10,16.67,47.26,7.92,Mixed,F&O,Technical Analysis,39.31,0,4
+TR00289,26-35,Intermediate,369235,359580,-2.66,7.03,17.21,0.36,1.05,12,6.22,32.43,5.76,Intraday,Equity,Mixed,51.79,0,2
+TR00290,26-35,Beginner,31949,25277,-21.08,48.71,47.97,0.31,0.61,29,29.23,66.62,5.26,Intraday,F&O,Tips/Recommendations,14.07,0,6
+TR00291,18-25,Advanced,1449728,1500882,3.37,0.72,7.16,0.51,2.85,12,10.62,36.45,1.6,Intraday,F&O,Mixed,91.28,1,1
+TR00292,46-55,Beginner,47744,40762,-13.69,43.57,48.16,0.36,1.0,26,13.41,36.07,3.82,Intraday,F&O,Tips/Recommendations,12.24,0,6
+TR00293,36-45,Intermediate,226615,227108,0.22,2.77,7.7,0.36,1.92,12,4.69,39.04,2.96,Positional,Commodities,Technical Analysis,66.31,1,1
+TR00294,26-35,Intermediate,420463,420412,-0.01,3.57,14.68,0.4,1.52,8,4.8,37.46,4.84,Mixed,Equity,Tips/Recommendations,69.86,0,2
+TR00295,36-45,Beginner,46187,43884,-5.26,13.42,20.8,0.35,0.83,15,10.02,35.92,4.36,Positional,F&O,Tips/Recommendations,31.01,0,3
+TR00296,36-45,Intermediate,188311,186477,-1.04,6.92,15.8,0.47,0.87,12,3.71,26.36,3.37,Mixed,F&O,Technical Analysis,60.82,0,2
+TR00297,26-35,Beginner,24489,21408,-13.6,10.94,16.48,0.21,0.97,29,19.5,45.55,5.24,Mixed,Equity,Mixed,20.12,0,3
+TR00298,18-25,Advanced,708153,726105,2.6,0.83,12.94,0.63,2.37,4,7.59,15.01,3.74,Swing,Equity,Technical Analysis,92.96,1,1
+TR00299,18-25,Beginner,68017,63836,-6.5,33.61,43.86,0.38,1.19,25,29.48,42.19,3.95,Positional,Commodities,Fundamental Analysis,25.89,0,5
+TR00300,46-55,Intermediate,111877,109167,-2.57,8.86,24.1,0.42,1.09,18,1.18,28.03,2.02,Swing,F&O,Mixed,59.3,0,2
+TR00301,56+,Beginner,53125,51468,-3.42,11.83,16.19,0.27,0.87,12,25.37,46.78,3.3,Intraday,F&O,Fundamental Analysis,37.72,0,3
+TR00302,36-45,Beginner,59922,56088,-7.08,18.09,34.93,0.4,0.96,27,0.32,67.47,7.52,Intraday,Equity,Mixed,39.26,0,4
+TR00303,46-55,Intermediate,144074,146368,1.73,5.94,14.48,0.48,1.57,18,1.84,37.16,4.59,Intraday,Equity,Mixed,63.33,1,2
+TR00304,36-45,Advanced,887409,893756,0.77,1.91,6.48,0.56,2.34,3,6.08,39.59,1.82,Positional,Mixed,Mixed,70.61,1,1
+TR00305,18-25,Beginner,47131,45753,-2.97,16.15,24.06,0.37,1.04,11,0.81,50.74,3.89,Positional,F&O,Technical Analysis,39.0,0,3
+TR00306,18-25,Beginner,52944,49666,-6.18,17.44,26.51,0.26,0.64,12,20.14,67.69,4.47,Intraday,Mixed,Mixed,28.84,0,4
+TR00307,26-35,Beginner,83963,69383,-18.71,23.85,38.2,0.29,1.01,25,11.26,73.57,3.57,Intraday,Equity,Mixed,37.92,0,4
+TR00308,46-55,Beginner,34285,29026,-15.57,27.03,33.93,0.25,0.93,18,0.21,63.95,7.71,Intraday,Equity,Technical Analysis,30.28,0,4
+TR00309,46-55,Intermediate,349770,355184,1.6,8.08,14.19,0.51,1.88,8,4.08,32.36,5.14,Mixed,Currency,Fundamental Analysis,42.29,1,3
+TR00310,46-55,Beginner,52808,52069,-1.49,9.71,13.04,0.31,1.09,10,16.93,67.68,5.31,Positional,Currency,Technical Analysis,21.1,0,3
+TR00311,46-55,Beginner,98464,95477,-3.37,9.77,13.11,0.33,0.72,13,20.19,40.18,7.32,Intraday,Currency,Tips/Recommendations,26.51,0,3
+TR00312,26-35,Beginner,63871,62595,-2.01,7.27,10.09,0.25,0.69,10,15.59,46.38,4.25,Swing,Mixed,Tips/Recommendations,33.7,0,3
+TR00313,26-35,Beginner,29198,22398,-22.46,38.31,48.71,0.24,1.19,23,0.95,57.33,6.59,Intraday,F&O,Technical Analysis,19.54,0,6
+TR00314,18-25,Intermediate,462974,463510,0.12,2.81,5.11,0.45,1.43,9,2.46,37.26,5.42,Swing,Currency,Tips/Recommendations,53.19,1,2
+TR00315,46-55,Intermediate,65254,65833,0.96,3.64,7.06,0.5,1.89,8,8.08,20.66,3.43,Swing,F&O,Tips/Recommendations,43.82,1,2
+TR00316,46-55,Beginner,54238,49031,-8.91,14.65,22.58,0.31,0.61,17,0.62,77.26,6.79,Mixed,Equity,Tips/Recommendations,34.47,0,3
+TR00317,26-35,Intermediate,51252,50831,-0.86,11.97,21.15,0.36,1.57,11,4.52,40.9,3.18,Intraday,F&O,Fundamental Analysis,48.67,0,3
+TR00318,36-45,Beginner,49764,46803,-6.3,45.74,48.48,0.37,1.07,12,17.94,54.79,4.49,Mixed,Equity,Technical Analysis,12.3,0,6
+TR00319,26-35,Intermediate,389853,391257,0.34,15.1,20.8,0.36,1.94,5,5.86,47.99,2.43,Intraday,F&O,Technical Analysis,36.64,1,3
+TR00320,56+,Intermediate,480657,484980,0.85,15.23,18.81,0.54,1.2,5,6.65,33.17,3.76,Intraday,F&O,Technical Analysis,32.44,1,3
+TR00321,46-55,Intermediate,365826,363773,-0.57,7.49,15.43,0.36,1.67,16,7.07,49.41,4.92,Positional,F&O,Technical Analysis,49.97,0,2
+TR00322,56+,Beginner,69494,66757,-3.95,9.87,13.47,0.34,0.88,28,0.58,55.61,7.7,Swing,F&O,News Events,13.19,0,3
+TR00323,46-55,Intermediate,131317,127481,-3.1,12.84,24.16,0.37,0.87,10,2.27,23.43,4.42,Intraday,Mixed,News Events,34.57,0,3
+TR00324,46-55,Intermediate,377359,386187,2.56,7.12,20.17,0.53,1.63,11,2.91,42.94,5.45,Intraday,F&O,Fundamental Analysis,67.64,1,2
+TR00325,18-25,Advanced,1851451,1910494,3.14,1.12,10.31,0.54,2.54,7,12.82,30.37,3.47,Swing,Commodities,Technical Analysis,90.54,1,1
+TR00326,36-45,Beginner,16949,14312,-16.92,27.4,40.36,0.23,1.15,23,0.39,68.65,3.87,Intraday,Currency,Technical Analysis,23.56,0,5
+TR00327,26-35,Beginner,65393,57474,-12.23,20.33,38.96,0.27,0.85,15,0.24,77.57,5.43,Intraday,Currency,Technical Analysis,39.57,0,4
+TR00328,56+,Beginner,83553,73256,-11.33,26.35,35.49,0.23,0.66,15,21.46,68.82,3.58,Intraday,F&O,Mixed,10.01,0,5
+TR00329,46-55,Intermediate,188013,176453,-5.64,12.63,24.61,0.38,0.85,17,9.39,38.34,4.73,Swing,Equity,Tips/Recommendations,54.56,0,3
+TR00330,46-55,Intermediate,75934,77311,1.91,9.67,23.07,0.54,1.3,7,6.18,45.72,5.8,Swing,F&O,Fundamental Analysis,54.66,1,3
+TR00331,46-55,Intermediate,466602,464970,-0.34,8.91,17.93,0.44,1.16,10,5.31,40.2,2.55,Intraday,Equity,Technical Analysis,48.3,0,3
+TR00332,26-35,Beginner,71886,65792,-8.52,29.49,37.73,0.36,1.03,17,0.38,50.41,6.67,Positional,Mixed,Technical Analysis,21.91,0,5
+TR00333,46-55,Beginner,85745,83948,-1.95,10.46,12.06,0.33,0.75,11,0.23,74.28,6.16,Swing,Currency,Tips/Recommendations,23.66,0,3
+TR00334,18-25,Beginner,93251,89583,-4.12,30.26,36.8,0.34,1.16,10,16.35,41.1,5.92,Swing,Equity,Technical Analysis,22.45,0,5
+TR00335,46-55,Intermediate,406600,408477,0.51,2.51,5.88,0.38,1.95,16,9.58,41.44,3.56,Positional,F&O,Fundamental Analysis,59.22,1,2
+TR00336,46-55,Beginner,63413,54507,-15.06,25.08,33.53,0.25,0.93,24,23.33,74.08,4.78,Intraday,F&O,Technical Analysis,14.06,0,5
+TR00337,26-35,Intermediate,409383,421467,3.04,15.6,24.99,0.51,1.91,5,2.1,41.94,2.18,Swing,Currency,Fundamental Analysis,37.91,1,3
+TR00338,46-55,Beginner,52318,50920,-2.77,29.61,32.23,0.39,1.03,14,20.12,64.86,4.09,Mixed,Equity,Tips/Recommendations,15.42,0,5
+TR00339,26-35,Beginner,80173,71020,-10.79,28.26,28.93,0.25,0.88,25,0.31,67.63,3.08,Positional,Equity,Mixed,17.87,0,4
+TR00340,26-35,Advanced,270390,271732,0.48,1.15,6.07,0.5,1.77,4,12.32,23.95,2.74,Swing,Equity,Tips/Recommendations,78.38,1,1
+TR00341,46-55,Beginner,62329,60745,-2.65,10.32,14.82,0.29,0.82,13,0.21,73.71,3.53,Intraday,F&O,Tips/Recommendations,13.34,0,4
+TR00342,26-35,Intermediate,303490,311031,2.51,5.75,19.62,0.55,1.47,7,9.43,26.1,5.49,Intraday,Equity,Technical Analysis,64.73,1,2
+TR00343,18-25,Intermediate,93088,93368,0.33,4.89,8.85,0.4,1.84,5,8.88,23.82,4.09,Mixed,F&O,News Events,41.89,1,2
+TR00344,26-35,Intermediate,297940,298034,0.03,5.23,7.31,0.43,1.38,5,3.5,28.57,4.8,Intraday,Mixed,Tips/Recommendations,36.5,1,2
+TR00345,26-35,Intermediate,415340,435984,4.57,4.64,13.44,0.53,1.88,16,8.66,35.95,3.64,Mixed,F&O,Technical Analysis,57.02,1,2
+TR00346,46-55,Intermediate,483027,478130,-0.93,14.07,20.91,0.35,1.61,16,1.0,35.32,4.24,Swing,Currency,Fundamental Analysis,31.52,0,3
+TR00347,56+,Beginner,65479,49020,-23.41,26.48,39.8,0.21,0.6,23,22.05,71.03,7.71,Intraday,F&O,Technical Analysis,28.6,0,5
+TR00348,26-35,Beginner,95392,93972,-1.59,6.91,12.2,0.32,1.2,15,17.73,50.23,3.41,Intraday,Currency,Tips/Recommendations,30.95,0,3
+TR00349,36-45,Intermediate,268441,270796,0.97,8.49,14.1,0.53,1.43,7,6.08,34.53,3.02,Intraday,Currency,Mixed,38.6,1,3
+TR00350,26-35,Intermediate,332107,329138,-0.88,9.52,15.45,0.4,1.27,16,2.73,20.4,5.12,Mixed,F&O,Tips/Recommendations,31.68,0,3
+TR00351,56+,Intermediate,367267,372618,1.35,9.33,17.89,0.44,1.59,13,2.91,32.29,2.39,Intraday,Currency,Fundamental Analysis,44.55,1,3
+TR00352,36-45,Beginner,83477,72483,-14.08,33.92,36.01,0.29,0.58,14,0.54,62.39,3.38,Swing,F&O,Technical Analysis,12.96,0,5
+TR00353,56+,Beginner,24388,21545,-12.93,21.45,24.59,0.29,0.95,26,0.66,30.78,4.81,Swing,Equity,Mixed,13.49,0,4
+TR00354,18-25,Intermediate,55569,56653,1.84,8.24,16.21,0.47,1.4,18,4.87,28.43,2.37,Intraday,F&O,Technical Analysis,40.17,1,3
+TR00355,56+,Advanced,794124,804305,1.4,2.9,8.25,0.54,2.11,6,5.05,16.24,2.76,Swing,Equity,Technical Analysis,70.34,1,1
+TR00356,26-35,Advanced,828861,852595,2.91,3.05,13.5,0.54,2.93,4,3.9,11.26,1.68,Swing,Mixed,Tips/Recommendations,78.55,1,1
+TR00357,56+,Intermediate,479802,483376,0.72,7.4,15.61,0.44,1.43,16,8.04,34.38,5.58,Swing,Mixed,Fundamental Analysis,57.14,1,2
+TR00358,26-35,Beginner,22015,20785,-5.9,16.6,27.64,0.32,0.65,10,13.56,39.09,6.92,Intraday,Mixed,Fundamental Analysis,27.78,0,4
+TR00359,18-25,Beginner,55002,46265,-17.33,18.34,26.18,0.31,0.82,29,0.72,67.15,6.5,Swing,F&O,Tips/Recommendations,14.45,0,4
+TR00360,26-35,Intermediate,297666,315517,5.69,8.39,16.45,0.52,1.9,19,6.7,45.44,4.47,Mixed,Commodities,Technical Analysis,36.88,1,3
+TR00361,36-45,Intermediate,187326,178924,-4.37,6.43,21.08,0.36,1.01,17,3.06,36.37,5.45,Intraday,Equity,Tips/Recommendations,65.15,0,2
+TR00362,26-35,Beginner,27144,25352,-6.01,22.31,31.54,0.37,0.65,10,14.42,79.09,4.12,Mixed,Commodities,Technical Analysis,26.75,0,4
+TR00363,36-45,Intermediate,205286,204549,-0.37,7.54,18.23,0.52,0.82,7,2.56,33.51,5.49,Intraday,Equity,Tips/Recommendations,64.8,0,2
+TR00364,36-45,Advanced,698870,701661,0.44,3.08,11.59,0.51,1.52,3,10.87,25.4,3.37,Mixed,Equity,Tips/Recommendations,73.0,1,1
+TR00365,26-35,Beginner,90719,83148,-7.97,20.2,30.81,0.29,1.08,19,0.86,79.46,6.74,Intraday,Equity,Technical Analysis,28.43,0,4
+TR00366,36-45,Intermediate,252846,256881,1.59,6.8,13.54,0.44,1.68,19,8.13,26.95,4.25,Mixed,F&O,Mixed,50.95,1,2
+TR00367,26-35,Beginner,16090,14749,-8.84,30.62,45.07,0.24,0.75,12,23.08,77.13,4.23,Positional,Equity,Technical Analysis,19.57,0,5
+TR00368,36-45,Beginner,21637,19504,-9.33,21.15,26.7,0.28,0.99,17,0.42,32.14,5.12,Intraday,Equity,Tips/Recommendations,24.1,0,4
+TR00369,18-25,Beginner,32415,28769,-11.96,21.92,28.48,0.21,0.78,23,13.54,52.32,6.97,Intraday,Equity,Mixed,25.07,0,4
+TR00370,56+,Beginner,34071,24618,-29.14,46.53,49.61,0.26,1.17,27,0.45,33.5,3.16,Swing,F&O,Technical Analysis,16.02,0,6
+TR00371,36-45,Intermediate,108243,109759,1.52,3.43,5.0,0.51,1.96,19,3.24,41.88,5.13,Swing,Equity,Tips/Recommendations,42.6,1,2
+TR00372,36-45,Intermediate,437971,437061,-0.21,3.01,8.71,0.41,1.27,10,2.2,38.25,2.96,Intraday,F&O,Technical Analysis,61.66,0,2
+TR00373,36-45,Beginner,51240,49925,-2.61,15.92,25.36,0.36,1.1,11,25.81,65.33,3.72,Mixed,Mixed,Fundamental Analysis,37.47,0,3
+TR00374,36-45,Beginner,93807,79323,-15.4,43.6,47.3,0.31,1.04,19,0.62,48.72,3.58,Swing,Mixed,Tips/Recommendations,20.79,0,6
+TR00375,26-35,Intermediate,413714,414453,0.17,4.12,6.4,0.53,1.17,6,2.71,31.08,2.11,Swing,F&O,Tips/Recommendations,42.28,1,2
+TR00376,18-25,Intermediate,476650,476165,-0.09,3.21,5.19,0.46,1.08,14,6.57,21.36,4.09,Intraday,Equity,Tips/Recommendations,37.81,0,2
+TR00377,36-45,Beginner,79724,73964,-7.79,9.93,12.11,0.21,0.82,26,26.69,47.5,4.09,Intraday,F&O,Technical Analysis,30.35,0,3
+TR00378,26-35,Advanced,1801596,1819284,1.08,0.74,3.15,0.59,2.67,9,10.55,37.88,3.97,Positional,F&O,Fundamental Analysis,71.31,1,1
+TR00379,26-35,Beginner,21314,20942,-1.93,8.14,11.5,0.21,1.17,10,11.29,48.96,5.87,Intraday,Equity,Technical Analysis,39.63,0,3
+TR00380,46-55,Beginner,33954,30690,-10.35,19.21,29.19,0.29,1.03,18,17.43,71.57,3.69,Swing,Currency,Tips/Recommendations,19.77,0,4
+TR00381,36-45,Beginner,67108,63603,-5.06,26.47,33.23,0.39,1.1,20,22.92,72.12,6.44,Swing,F&O,Technical Analysis,21.82,0,4
+TR00382,26-35,Beginner,97044,88761,-8.16,17.35,20.87,0.23,0.92,25,15.32,48.66,7.49,Intraday,Equity,Mixed,28.1,0,4
+TR00383,26-35,Beginner,97505,89003,-8.25,15.48,25.93,0.28,1.08,16,0.23,61.6,6.73,Intraday,F&O,Technical Analysis,34.05,0,3
+TR00384,26-35,Intermediate,161195,164488,2.15,3.46,6.83,0.5,1.74,17,8.78,22.86,2.31,Swing,F&O,Fundamental Analysis,48.78,1,2
+TR00385,26-35,Advanced,1285244,1319152,2.74,1.49,6.37,0.63,2.07,11,5.92,13.11,3.69,Intraday,F&O,Technical Analysis,74.79,1,1
+TR00386,26-35,Intermediate,335205,339581,1.31,5.51,15.45,0.48,1.46,11,6.87,21.46,5.18,Intraday,Mixed,Fundamental Analysis,69.83,1,2
+TR00387,18-25,Beginner,89252,80189,-11.13,39.8,39.29,0.25,1.06,12,22.28,59.05,3.79,Mixed,Equity,Tips/Recommendations,10.31,0,5
+TR00388,26-35,Beginner,49749,46304,-6.77,6.93,10.13,0.33,0.53,27,0.87,51.3,3.26,Intraday,Mixed,Fundamental Analysis,36.85,0,3
+TR00389,56+,Beginner,26907,22919,-13.51,25.4,28.69,0.26,1.07,22,12.66,57.4,5.79,Mixed,F&O,News Events,14.47,0,4
+TR00390,36-45,Intermediate,199849,199770,-0.04,4.76,10.94,0.49,1.01,16,1.92,35.63,2.62,Intraday,Equity,Technical Analysis,61.44,0,2
+TR00391,56+,Intermediate,274301,285850,4.01,9.56,22.06,0.54,1.42,14,6.93,30.51,5.34,Intraday,F&O,Fundamental Analysis,54.72,1,3
+TR00392,36-45,Beginner,61745,56806,-8.0,30.15,38.62,0.34,1.07,16,0.95,63.87,4.79,Positional,Equity,Mixed,20.26,0,5
+TR00393,26-35,Beginner,91818,87277,-5.34,23.38,33.56,0.37,0.68,13,15.59,67.93,7.56,Swing,F&O,Technical Analysis,36.22,0,4
+TR00394,36-45,Intermediate,73624,72242,-1.85,6.91,10.55,0.35,1.09,17,9.37,20.44,4.26,Intraday,Currency,News Events,30.52,0,3
+TR00395,18-25,Beginner,33321,25319,-25.02,31.88,46.41,0.34,0.78,29,25.62,40.36,3.91,Intraday,Equity,Technical Analysis,16.8,0,5
+TR00396,26-35,Beginner,20488,20275,-1.15,7.15,11.8,0.37,1.13,10,0.84,65.66,3.7,Intraday,Mixed,Technical Analysis,27.01,0,3
+TR00397,26-35,Beginner,32574,30444,-6.37,9.67,14.38,0.21,0.5,17,19.0,49.33,5.88,Intraday,F&O,Mixed,20.55,0,3
+TR00398,36-45,Beginner,15240,14383,-5.25,21.12,25.67,0.37,1.13,23,0.3,63.12,6.81,Intraday,Equity,Mixed,28.31,0,4
+TR00399,36-45,Intermediate,224293,222454,-0.85,5.11,7.49,0.4,0.98,18,5.06,30.41,5.13,Intraday,F&O,Fundamental Analysis,30.96,0,3
+TR00400,26-35,Intermediate,453694,482283,6.44,17.11,24.13,0.48,1.99,16,8.94,31.72,3.1,Mixed,Equity,Technical Analysis,34.66,1,3
+TR00401,26-35,Advanced,386717,400297,3.26,4.21,12.37,0.61,2.93,4,4.27,14.76,1.61,Mixed,Commodities,Tips/Recommendations,64.45,1,2
+TR00402,26-35,Beginner,29262,27309,-6.28,15.51,20.36,0.33,0.85,24,0.99,42.91,3.08,Intraday,Equity,Tips/Recommendations,15.68,0,4
+TR00403,26-35,Advanced,1629551,1666339,2.16,2.17,9.65,0.47,2.27,13,3.57,28.16,3.04,Mixed,Mixed,Fundamental Analysis,76.08,1,1
+TR00404,56+,Intermediate,233868,235802,0.87,11.0,24.65,0.47,1.38,6,1.34,32.99,2.31,Mixed,F&O,Fundamental Analysis,60.09,1,3
+TR00405,46-55,Beginner,14432,13409,-6.55,29.93,45.37,0.31,0.94,11,23.18,68.72,5.1,Positional,Equity,Tips/Recommendations,37.17,0,5
+TR00406,26-35,Intermediate,145257,145360,0.08,7.32,17.02,0.53,0.91,11,8.22,45.58,4.41,Mixed,F&O,News Events,63.41,1,2
+TR00407,18-25,Intermediate,114291,108822,-4.67,15.37,23.07,0.43,0.84,19,1.95,36.25,5.75,Positional,F&O,Technical Analysis,37.88,0,3
+TR00408,36-45,Intermediate,260176,254160,-2.55,13.34,24.78,0.41,0.87,10,1.32,42.75,3.25,Intraday,F&O,Technical Analysis,47.65,0,3
+TR00409,36-45,Beginner,69399,56371,-18.25,34.86,39.73,0.35,0.81,28,17.75,45.35,4.25,Intraday,F&O,Technical Analysis,15.98,0,5
+TR00410,26-35,Intermediate,439744,438436,-0.31,4.41,6.3,0.43,1.13,13,5.16,32.45,4.62,Mixed,Currency,Mixed,40.58,0,2
+TR00411,46-55,Beginner,89714,82993,-7.57,21.77,26.06,0.33,0.94,26,0.99,65.64,6.1,Swing,Equity,Mixed,25.11,0,4
+TR00412,46-55,Advanced,1991667,2064945,3.8,3.93,12.89,0.58,2.99,5,14.31,21.59,2.0,Mixed,Commodities,Technical Analysis,62.38,1,2
+TR00413,36-45,Beginner,10302,9835,-4.85,16.26,19.22,0.38,0.77,19,17.1,59.43,7.64,Swing,F&O,Technical Analysis,16.55,0,4
+TR00414,26-35,Intermediate,443271,451215,1.75,7.57,21.61,0.47,1.49,10,4.71,25.56,5.38,Intraday,F&O,News Events,67.42,1,2
+TR00415,26-35,Intermediate,161317,161665,0.2,4.18,7.41,0.45,1.3,19,5.95,37.99,2.9,Intraday,Mixed,Tips/Recommendations,48.64,1,2
+TR00416,18-25,Beginner,18717,17628,-5.33,8.06,11.88,0.23,1.09,20,11.37,73.08,4.2,Swing,Mixed,Tips/Recommendations,23.36,0,3
+TR00417,26-35,Intermediate,439593,442093,0.61,10.1,12.68,0.37,1.88,16,4.82,46.06,4.05,Intraday,Mixed,Tips/Recommendations,30.58,1,3
+TR00418,26-35,Intermediate,340843,341470,0.18,4.08,5.73,0.38,1.85,9,1.74,41.73,5.09,Swing,Mixed,Technical Analysis,39.9,1,2
+TR00419,46-55,Intermediate,123686,124698,0.79,7.64,24.15,0.38,1.97,5,5.63,42.37,2.18,Intraday,Equity,Fundamental Analysis,64.65,1,2
+TR00420,18-25,Intermediate,117661,116081,-1.39,15.74,21.52,0.48,0.83,12,9.09,36.74,4.77,Intraday,Mixed,Mixed,36.59,0,3
+TR00421,26-35,Intermediate,94247,97023,3.26,9.41,21.02,0.5,1.81,9,8.04,37.54,4.59,Swing,F&O,Technical Analysis,46.6,1,3
+TR00422,36-45,Intermediate,295121,302891,2.54,10.05,17.6,0.46,1.7,16,3.05,24.01,2.93,Positional,F&O,Technical Analysis,30.57,1,3
+TR00423,26-35,Intermediate,197820,198737,0.43,4.04,9.33,0.52,1.07,16,9.78,33.32,4.73,Swing,Equity,Mixed,49.13,1,2
+TR00424,36-45,Advanced,1615833,1749898,8.08,2.82,8.74,0.65,2.93,13,11.01,23.52,3.82,Intraday,Mixed,Technical Analysis,60.74,1,2
+TR00425,26-35,Intermediate,316765,317144,0.12,7.18,16.95,0.51,0.98,9,1.09,48.75,2.19,Intraday,F&O,Tips/Recommendations,62.78,1,2
+TR00426,26-35,Beginner,25034,23191,-7.33,16.66,31.0,0.34,0.98,16,15.21,51.55,4.6,Intraday,Equity,Technical Analysis,34.75,0,4
+TR00427,36-45,Beginner,15126,14195,-6.55,12.31,20.41,0.31,0.66,13,0.16,57.47,5.19,Intraday,F&O,Tips/Recommendations,33.63,0,3
+TR00428,18-25,Intermediate,186194,186469,0.14,7.56,15.3,0.44,1.32,10,5.3,36.0,5.6,Intraday,F&O,Tips/Recommendations,41.33,1,3
+TR00429,46-55,Intermediate,330174,329341,-0.24,4.97,14.82,0.37,1.66,17,9.06,39.1,5.85,Intraday,Equity,Technical Analysis,63.49,0,2
+TR00430,46-55,Beginner,92838,66992,-29.96,30.73,49.85,0.28,0.89,29,12.5,67.41,5.22,Intraday,Mixed,Technical Analysis,26.29,0,5
+TR00431,18-25,Beginner,94717,77093,-17.3,38.59,45.9,0.38,0.8,24,0.53,41.25,6.75,Intraday,Equity,Technical Analysis,21.21,0,5
+TR00432,26-35,Intermediate,498874,501343,0.52,5.48,14.27,0.51,1.19,7,5.37,35.86,4.13,Intraday,Equity,Technical Analysis,55.01,1,2
+TR00433,26-35,Beginner,48638,41190,-13.97,35.7,34.92,0.24,1.09,17,0.93,71.3,5.69,Swing,Equity,Fundamental Analysis,10.37,0,5
+TR00434,56+,Beginner,77067,56487,-27.34,38.55,39.91,0.29,0.6,29,0.65,53.16,4.39,Intraday,Commodities,Technical Analysis,14.29,0,5
+TR00435,36-45,Beginner,98869,95113,-4.06,6.22,11.39,0.36,0.8,25,0.14,43.92,4.08,Intraday,Commodities,News Events,32.27,0,3
+TR00436,18-25,Advanced,1878050,1970589,5.08,4.97,13.63,0.46,2.86,14,10.18,29.64,1.86,Intraday,Mixed,Tips/Recommendations,68.55,1,2
+TR00437,26-35,Beginner,44674,36188,-19.22,25.97,44.41,0.28,1.09,27,17.52,71.19,5.78,Swing,Equity,Technical Analysis,27.94,0,5
+TR00438,46-55,Advanced,1415502,1478756,4.89,1.89,7.95,0.62,2.1,13,9.6,11.89,1.09,Swing,F&O,Fundamental Analysis,73.48,1,1
+TR00439,26-35,Intermediate,96271,97577,1.34,3.73,12.82,0.43,1.72,14,4.5,43.3,5.63,Positional,F&O,Tips/Recommendations,64.19,1,2
+TR00440,46-55,Beginner,83688,72216,-13.45,12.01,20.92,0.22,1.08,28,15.48,71.08,3.78,Swing,Commodities,Mixed,38.57,0,3
+TR00441,36-45,Intermediate,481734,487545,1.15,5.06,14.53,0.46,1.87,5,9.35,33.85,2.88,Swing,F&O,Tips/Recommendations,65.34,1,2
+TR00442,56+,Beginner,20267,19504,-4.16,10.79,11.78,0.37,0.88,28,0.71,79.17,5.59,Intraday,F&O,Technical Analysis,18.12,0,3
+TR00443,36-45,Intermediate,271897,270221,-0.61,12.83,22.04,0.47,1.05,16,1.11,43.6,4.84,Intraday,F&O,Mixed,37.77,0,3
+TR00444,56+,Intermediate,51062,50774,-0.62,3.15,5.71,0.4,1.11,14,9.93,43.21,2.38,Intraday,Currency,Technical Analysis,48.98,0,2
+TR00445,46-55,Beginner,60448,55597,-7.71,18.2,23.16,0.28,0.71,14,0.7,67.39,4.59,Mixed,Currency,Fundamental Analysis,10.22,0,4
+TR00446,36-45,Beginner,16229,14404,-12.34,46.4,47.26,0.29,0.92,18,0.89,37.53,7.84,Swing,F&O,News Events,10.77,0,6
+TR00447,36-45,Advanced,1698585,1746634,2.61,2.13,11.56,0.57,1.55,13,9.53,16.52,1.79,Intraday,Equity,Technical Analysis,79.37,1,1
+TR00448,36-45,Beginner,57915,56325,-2.64,13.56,21.26,0.35,0.95,10,0.67,53.2,4.57,Intraday,Currency,Mixed,25.61,0,3
+TR00449,46-55,Advanced,1515352,1529455,0.93,0.24,5.28,0.47,2.05,11,14.74,17.92,3.51,Swing,F&O,Tips/Recommendations,94.81,1,0
+TR00450,36-45,Intermediate,154592,155198,0.4,2.76,5.1,0.53,1.15,14,7.73,32.46,2.2,Intraday,Equity,Fundamental Analysis,38.07,1,2
+TR00451,46-55,Intermediate,184668,184707,0.02,11.35,18.91,0.35,1.86,5,6.02,46.65,3.86,Intraday,Equity,News Events,40.32,1,3
+TR00452,36-45,Advanced,1620499,1623201,0.17,1.08,2.63,0.52,2.19,3,5.17,34.73,2.14,Intraday,Equity,Technical Analysis,63.97,1,1
+TR00453,26-35,Advanced,1647960,1656491,0.48,0.59,8.92,0.46,1.64,7,3.65,28.9,1.95,Positional,F&O,Mixed,92.11,1,1
+TR00454,26-35,Intermediate,158099,161249,1.84,10.21,24.24,0.43,1.79,13,3.88,45.74,3.14,Positional,F&O,Technical Analysis,61.11,1,2
+TR00455,26-35,Beginner,17561,16701,-5.44,9.97,14.38,0.31,0.53,17,15.39,69.19,3.46,Swing,F&O,Technical Analysis,34.67,0,3
+TR00456,36-45,Intermediate,132152,137453,3.94,8.91,22.89,0.45,1.67,17,5.86,32.87,3.26,Intraday,Mixed,Tips/Recommendations,66.11,1,2
+TR00457,46-55,Beginner,36734,32203,-11.82,33.1,49.66,0.23,1.04,10,0.76,40.05,3.22,Mixed,F&O,Mixed,25.75,0,5
+TR00458,36-45,Beginner,16371,15558,-4.85,9.34,12.46,0.33,0.75,25,0.72,55.71,6.9,Intraday,F&O,Tips/Recommendations,23.54,0,3
+TR00459,36-45,Beginner,36069,31988,-12.35,42.47,45.32,0.21,1.08,16,0.97,66.81,4.99,Mixed,Currency,Technical Analysis,19.91,0,5
+TR00460,26-35,Intermediate,260977,266044,2.06,7.57,15.32,0.5,1.42,19,2.36,33.09,3.78,Intraday,F&O,Tips/Recommendations,53.57,1,2
+TR00461,18-25,Intermediate,62910,64294,2.32,11.45,23.13,0.54,1.36,9,4.08,40.0,5.57,Intraday,Equity,Technical Analysis,48.17,1,3
+TR00462,26-35,Intermediate,385623,380614,-1.22,7.27,16.43,0.42,0.85,10,4.72,22.83,4.63,Swing,F&O,Mixed,48.06,0,2
+TR00463,26-35,Intermediate,131264,130833,-0.33,5.37,18.24,0.45,1.15,17,7.82,42.44,2.03,Positional,F&O,Technical Analysis,67.48,0,2
+TR00464,26-35,Advanced,223275,228961,2.55,0.52,9.07,0.53,2.9,8,11.92,34.38,3.83,Swing,Equity,Technical Analysis,94.44,1,1
+TR00465,36-45,Beginner,82274,67399,-16.63,32.04,44.58,0.2,0.77,12,0.65,65.34,4.19,Swing,F&O,Fundamental Analysis,33.89,0,5
+TR00466,18-25,Beginner,91449,77512,-14.83,22.51,39.36,0.28,0.88,21,0.24,78.36,3.54,Swing,F&O,Mixed,32.7,0,4
+TR00467,26-35,Beginner,70004,63503,-8.6,22.32,30.85,0.36,0.87,25,27.54,71.33,6.84,Swing,Currency,Technical Analysis,30.42,0,4
+TR00468,36-45,Intermediate,244053,247237,1.32,14.45,22.36,0.47,1.51,7,4.9,47.09,4.0,Swing,Equity,Mixed,36.64,1,3
+TR00469,36-45,Intermediate,235625,233457,-0.99,6.74,9.91,0.37,0.87,9,2.45,48.01,3.74,Swing,Equity,Technical Analysis,32.36,0,3
+TR00470,18-25,Advanced,772735,779187,0.77,0.69,4.05,0.62,2.04,7,9.7,34.04,1.75,Intraday,Equity,Tips/Recommendations,84.18,1,1
+TR00471,26-35,Beginner,44529,41848,-6.07,12.7,16.42,0.31,1.01,23,24.83,63.71,5.74,Intraday,Equity,Tips/Recommendations,31.86,0,3
+TR00472,36-45,Beginner,85703,81345,-5.43,19.23,23.36,0.37,0.64,14,15.56,30.29,4.37,Intraday,F&O,Tips/Recommendations,11.41,0,4
+TR00473,26-35,Intermediate,388234,386756,-0.4,3.71,9.77,0.47,1.04,19,2.75,33.97,5.61,Intraday,Currency,Technical Analysis,67.12,0,1
+TR00474,26-35,Advanced,1003692,1007285,0.39,4.48,14.09,0.56,1.52,2,13.56,27.13,1.65,Intraday,Equity,Technical Analysis,63.19,1,2
+TR00475,26-35,Beginner,13812,12769,-7.6,10.07,14.23,0.22,0.81,23,16.22,45.2,7.42,Mixed,F&O,Mixed,18.58,0,3
+TR00476,56+,Beginner,38024,30145,-19.35,24.03,37.96,0.23,1.12,29,26.3,45.91,5.8,Mixed,F&O,Technical Analysis,30.17,0,4
+TR00477,36-45,Beginner,68656,66491,-2.9,12.65,17.57,0.39,0.54,14,0.65,78.06,7.14,Swing,Equity,Tips/Recommendations,15.1,0,4
+TR00478,36-45,Advanced,1102580,1141785,3.27,4.57,13.46,0.5,1.79,13,7.5,36.75,3.14,Swing,Mixed,News Events,61.94,1,2
+TR00479,46-55,Beginner,37285,31186,-17.68,32.69,48.45,0.4,0.72,25,20.48,72.46,6.48,Intraday,F&O,Technical Analysis,19.93,0,5
+TR00480,46-55,Beginner,11605,10510,-9.67,21.65,28.62,0.31,1.01,25,0.86,50.3,4.62,Swing,Currency,Tips/Recommendations,32.98,0,4
+TR00481,26-35,Beginner,81158,68610,-17.07,29.98,45.16,0.23,0.95,16,10.22,30.68,4.17,Mixed,Equity,Technical Analysis,22.41,0,5
+TR00482,18-25,Intermediate,122303,122040,-0.2,2.46,5.1,0.37,1.3,8,7.75,22.41,2.84,Swing,Equity,Technical Analysis,56.12,0,2
+TR00483,26-35,Beginner,37139,33259,-10.75,25.46,42.8,0.24,1.03,10,23.57,45.61,7.29,Intraday,F&O,News Events,27.39,0,5
+TR00484,46-55,Beginner,87149,85247,-2.13,20.17,19.15,0.39,0.93,14,26.84,30.79,7.1,Intraday,F&O,Technical Analysis,10.67,0,4
+TR00485,46-55,Intermediate,237210,241542,1.75,7.65,23.17,0.43,1.88,11,5.23,20.51,3.76,Swing,F&O,Fundamental Analysis,69.54,1,2
+TR00486,56+,Intermediate,311949,313625,0.55,2.76,5.02,0.43,1.78,14,5.52,47.5,2.53,Swing,Equity,Mixed,31.66,1,2
+TR00487,26-35,Advanced,1062557,1083288,2.03,0.63,9.23,0.51,1.88,11,4.5,31.18,2.15,Positional,Equity,Mixed,93.87,1,1
+TR00488,36-45,Beginner,23918,20140,-14.46,29.76,40.27,0.23,0.69,14,22.87,45.45,6.1,Positional,F&O,Tips/Recommendations,26.5,0,5
+TR00489,36-45,Intermediate,208518,207827,-0.3,3.56,10.17,0.45,0.95,8,8.02,23.98,3.82,Intraday,F&O,Technical Analysis,68.53,0,1
+TR00490,36-45,Beginner,23046,22116,-4.21,15.48,17.73,0.23,0.74,11,0.3,55.58,6.9,Positional,Currency,Technical Analysis,13.44,0,4
+TR00491,26-35,Beginner,34818,33784,-2.98,10.63,13.36,0.37,1.2,29,10.04,30.27,7.99,Intraday,Mixed,Fundamental Analysis,24.71,0,3
+TR00492,26-35,Beginner,14324,13159,-7.43,21.82,23.06,0.27,0.78,19,0.26,76.92,3.96,Swing,Equity,Fundamental Analysis,15.09,0,4
+TR00493,26-35,Beginner,86323,67502,-24.2,27.57,32.39,0.27,0.65,28,13.63,50.74,5.3,Positional,F&O,Technical Analysis,11.53,0,5
+TR00494,18-25,Beginner,19111,18780,-1.76,8.38,14.63,0.29,1.03,10,18.05,50.12,5.15,Intraday,Currency,Tips/Recommendations,28.53,0,3
+TR00495,26-35,Advanced,1155614,1176195,1.94,2.57,6.9,0.54,2.31,9,13.49,21.72,1.91,Intraday,Currency,Tips/Recommendations,67.27,1,1
+TR00496,36-45,Beginner,26389,25774,-2.33,7.14,10.36,0.4,0.6,14,24.47,33.47,3.99,Intraday,F&O,Technical Analysis,27.63,0,3
+TR00497,26-35,Beginner,51427,44615,-14.64,36.97,42.75,0.31,0.77,22,0.19,61.92,3.33,Intraday,Mixed,Fundamental Analysis,13.37,0,5
+TR00498,26-35,Beginner,89579,85040,-5.16,9.73,15.14,0.22,0.79,13,0.73,66.65,7.44,Intraday,Equity,Mixed,19.96,0,3
+TR00499,26-35,Advanced,1932682,1980727,2.63,0.72,5.68,0.57,2.63,9,8.84,30.28,2.26,Swing,F&O,Mixed,87.36,1,1
+TR00500,18-25,Intermediate,172883,171859,-0.59,3.37,5.37,0.38,0.82,11,6.39,24.15,3.99,Swing,F&O,Tips/Recommendations,47.48,0,2
